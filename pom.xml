@@ -12,7 +12,7 @@
         <repository>
             <id>nexus</id>
             <name>Nexus Releases</name>
-            <url>http://65.2.150.166:8081/repository/hiring-app-releases//</url>
+            <url>http://65.2.150.166:8081/repository/hiring-app-releases/</url>
         </repository>
     </distributionManagement>
 
